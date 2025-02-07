@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Betflix-Expo",
-    "slug": "Betflix-Expo",
+    "slug": "betflix-expo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -38,10 +38,27 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          }
+        }
       ]
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "258ec9d2-693b-440d-81b5-af37b77ce268"
+      }
+    },
+    "owner": "luca_tozzini"
   }
 }
