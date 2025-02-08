@@ -2,11 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app). This project aims to be the mobile frontend for [`Betflix-Server`](https://github.com/LucaTozzini/Betflix-Server).
 
+<p float="left">
 <img src="screenshots/Home.jpg" alt="Description" width="250" style="display: inline-block">
 <img src="screenshots/TheMatrix.jpg" alt="Description" width="250" style="display: inline-block">
 <img src="screenshots/JohnWick4.jpg" alt="Description" width="250"style="display: inline-block">
 <img src="screenshots/Search.jpg" alt="Description" width="250" style="display: inline-block">
 <img src="screenshots/Console.jpg" alt="Description" width="250" style="display: inline-block">
+</p>
 
 ## Get started
 
